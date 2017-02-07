@@ -14,7 +14,7 @@
 <div class="container2">
 <form method = POST>
 		<br>
-		<div class="row">
+		<div class="row" style="align: center;">
 			<div class="col-md-3">
 				<a href="viewAndUpdateEmpInfo.jsp" class="btn btn-primary btn-lg btn-block btn-huge">View and Update<br> Information</a>
 			</div>
@@ -24,10 +24,7 @@
 			<div class="col-md-3">
 				<a href="#" class="btn btn-primary btn-lg btn-block btn-huge">View <br>Requests</a>
 			</div>
-			<div class="col-md-3">
-				<a href="#" class="btn btn-primary btn-lg btn-block btn-huge">Test
-					button</a>
-			</div>
+			
 			
 		</div>
 

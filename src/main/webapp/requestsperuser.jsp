@@ -21,27 +21,19 @@
 			<fieldset>
 
 				<!-- Form Name -->
-				<legend style="color: white;">Reimbursement Request Form</legend>
+				<legend style="color: white;">Employee Reimbursement Request Search</legend>
 
 				<!-- Text input-->
 				<div class="form-group">
-					<label class="col-md-4 control-label" for="r_amount">Employee Username</label>
+					<label class="col-md-4 control-label" for="emp_username">Employee Username</label>
 					<div class="col-md-4">
-						<input id="r_amount" name="r_amount" type="number"
-							placeholder="amount" class="form-control input-md" required="">
+						<input id="emp_username" name="r_amount" type="text"
+							placeholder="employee username" class="form-control input-md" required="">
 
 					</div>
 				</div>
 
-				<!-- Text input-->
-				<div class="form-group">
-					<label class="col-md-4 control-label" for="r_description">Description</label>
-					<div class="col-md-4">
-						<input id="r_description" name="r_description" type="text"
-							placeholder="description" class="form-control input-md"
-							required="">
 
-				</div>
 
 				<!-- Button -->
 				<div class="form-group">
